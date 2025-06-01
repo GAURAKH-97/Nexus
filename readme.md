@@ -79,14 +79,12 @@ We welcome contributions! Fork the repo, create a branch, submit PRs. You can al
 
 ---
 
-## 👨‍💻 Publisher & Developers
+## 👨‍💻 Developers
 
-![BoldReach Logo](https://raw.githubusercontent.com/keshavsharma011/Project-Boldreach/refs/heads/main/Images/Boldreach-logo/boldreach_logo.webp)
+![siti Logo](https://github.com/GAURAKH-97/Portfolio/blob/main/Image/my/logo.png)
+ 
+**Developed by:** **Gaurakh** 
 
-**Published by:** **Boldreach Consultancy**  
-**Developed by:** **Gaurakh** and **Keshav**
+📧 Contact: [Gmail](gparjapati097@@gmail.com)
 
-📧 Contact: [Boldreach](mailto:boldreach.in@gmail.com)
-
-🌐 Website: [Boldreach
-Consultancy](https://www.boldreach.in//)
+🌐 Website: [Gaurakh-codes]([https://www.boldreach.in//](https://gaurakh-codes.netlify.app/))
