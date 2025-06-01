@@ -87,4 +87,5 @@ We welcome contributions! Fork the repo, create a branch, submit PRs. You can al
 
 📧 Contact: [Gmail](gparjapati097@@gmail.com)
 
-🌐 Website: [Gaurakh-codes]([https://www.boldreach.in//](https://gaurakh-codes.netlify.app/))
+🌐 Website: [Gaurakh-codes](https://gaurakh-codes.netlify.app/)
+
